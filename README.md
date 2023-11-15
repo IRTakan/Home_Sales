@@ -41,3 +41,4 @@ Answer the following questions using SparkSQL:
 
 - Download your Home_Sales.ipynb file and upload it into your "Home_Sales" GitHub repository.
 
+*Technologies used: Google Colab. Languages: Python.
