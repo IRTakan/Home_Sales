@@ -39,6 +39,6 @@ Answer the following questions using SparkSQL:
 
 -Verify that the home_sales temporary table is uncached using PySpark.
 
-- Download Home_Sales.ipynb file and upload it into my "Home_Sales" GitHub repository.
+- Download Home_Sales_colab.ipynb file and upload it into my "Home_Sales" GitHub repository.
 
 *Technologies used: Google Colab. Languages: Python.
